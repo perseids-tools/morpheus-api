@@ -1,4 +1,4 @@
-FROM perseidsproject/morpheus:v1.0.2
+FROM perseidsproject/morpheus:v1.0.3
 
 RUN apt-get update -qq && apt-get install -qq -y ruby ruby-dev
 
