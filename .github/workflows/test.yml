@@ -12,7 +12,7 @@ jobs:
           ruby-version: 3.0
 
       - name: Install bundler
-        run: gem install bundler
+        run: gem install bundler --version 2.4.5
 
       - name: Install dependencies
         run: bundle install
