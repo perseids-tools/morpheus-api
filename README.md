@@ -52,7 +52,7 @@ services:
 
 Requirements:
 
-- ruby (~2.7)
+- ruby (~3.0)
 - bundler
 
 ```bash
